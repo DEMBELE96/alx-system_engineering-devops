@@ -1,2 +1,2 @@
-#!/bin/bah
-head /etc/passwd
+#!/bin/bash
+cat /etc/passwd | head
